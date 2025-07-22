@@ -5,8 +5,8 @@
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
     "paths": {
-      "dynamic-form-schema": [
-        "./dist/dynamic-form-schema"
+      "dynamic-form-builder": [
+        "./dist/dynamic-form-builder"
       ]
     },
     "strict": true,

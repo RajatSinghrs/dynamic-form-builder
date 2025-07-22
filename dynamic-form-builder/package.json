@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-form-schema",
+  "name": "dynamic-form-builder",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",

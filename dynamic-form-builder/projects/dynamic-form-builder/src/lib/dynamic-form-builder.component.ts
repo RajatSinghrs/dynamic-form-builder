@@ -1,16 +1,16 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-dynamic-form-schema',
+  selector: 'lib-dynamic-form-builder',
   standalone: true,
   imports: [],
   template: `
     <p>
-      dynamic-form-schema works!
+      dynamic-form-builder works!
     </p>
   `,
   styles: ``
 })
-export class DynamicFormSchemaComponent {
+export class DynamicFormBuilderComponent {
 
 }
